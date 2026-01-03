@@ -6,10 +6,15 @@ This project uses Computer Vision and Hand Gesture Recognition to control the ga
 📌 Project Overview
 
 This system tracks your index finger movement in real time and converts hand gestures into keyboard actions required to play Temple Run.
+
 The project is built using:
+
 OpenCV – video capture & image processing
+
 MediaPipe – hand landmark detection
+
 PyAutoGUI – keyboard control automation
+
 
 ✋ Gesture Controls Mapping
 
